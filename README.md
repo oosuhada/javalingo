@@ -55,3 +55,7 @@ Then open `http://localhost:8080`.
 현재 GitHub Pages에서 동작하는 학습용 프로젝트입니다. 현재 대표 기술 스택을 보여주는 프로젝트보다는 Java 기초를 학습 도구로 구조화한 성장 기록으로 유지합니다.
 
 This is intentionally kept as a small learning product and progression artifact rather than presented as a current flagship application.
+
+## Topics
+
+[`coding-test`](https://github.com/topics/coding-test) · [`css`](https://github.com/topics/css) · [`gamified-learning`](https://github.com/topics/gamified-learning) · [`github-pages`](https://github.com/topics/github-pages) · [`html`](https://github.com/topics/html) · [`java`](https://github.com/topics/java) · [`javascript`](https://github.com/topics/javascript) · [`learning-tool`](https://github.com/topics/learning-tool)
